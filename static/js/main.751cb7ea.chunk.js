@@ -1,0 +1,2 @@
+(this.webpackJsonpfooty=this.webpackJsonpfooty||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},,,,,function(e,t,n){},function(e,t,n){},function(e,t,n){"use strict";n.r(t);var o=n(0),c=n(2);n(8),n(9);function r(){return o.createElement("div",{className:"App"})}c.render(o.createElement(o.StrictMode,null,o.createElement(r,null)),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.751cb7ea.chunk.js.map

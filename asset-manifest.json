@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/footy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/footy/static/js/main.751cb7ea.chunk.js",
+    "main.js.map": "/footy/static/js/main.751cb7ea.chunk.js.map",
+    "runtime-main.js": "/footy/static/js/runtime-main.1721dd64.js",
+    "runtime-main.js.map": "/footy/static/js/runtime-main.1721dd64.js.map",
+    "static/js/2.f95edee3.chunk.js": "/footy/static/js/2.f95edee3.chunk.js",
+    "static/js/2.f95edee3.chunk.js.map": "/footy/static/js/2.f95edee3.chunk.js.map",
+    "index.html": "/footy/index.html",
+    "precache-manifest.e80532cafffaf20ce6f210dd2b808d47.js": "/footy/precache-manifest.e80532cafffaf20ce6f210dd2b808d47.js",
+    "service-worker.js": "/footy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/footy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f95edee3.chunk.js.LICENSE.txt": "/footy/static/js/2.f95edee3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1721dd64.js",
+    "static/js/2.f95edee3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.751cb7ea.chunk.js"
+  ]
+}
